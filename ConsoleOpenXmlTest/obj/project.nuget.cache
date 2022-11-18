@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+akVTM9BOpTiem4Dp9/3/rqJtCk4394uuYuajiTpgp3pxY+IRpeWpJDEhR+8pnrcqFw55Aj7ItY1GCVjSfY1Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\ConsoleOpenXmlTest\\ConsoleOpenXmlTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renzo\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

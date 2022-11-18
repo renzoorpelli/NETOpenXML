@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxaZpWneYoR3fyoRYaI9NGxxAs5sAfdheJXt6fT9BAK22Mtywy3K7fr9DIGMSvMfvPc+mvEosNKYyE8yOuA41A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renzo\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

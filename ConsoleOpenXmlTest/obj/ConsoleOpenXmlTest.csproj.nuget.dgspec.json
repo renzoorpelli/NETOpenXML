@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\ConsoleOpenXmlTest\\ConsoleOpenXmlTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\ConsoleOpenXmlTest\\ConsoleOpenXmlTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\ConsoleOpenXmlTest\\ConsoleOpenXmlTest.csproj",
+        "projectName": "ConsoleOpenXmlTest",
+        "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\ConsoleOpenXmlTest\\ConsoleOpenXmlTest.csproj",
+        "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\ConsoleOpenXmlTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo\\Documents\\develop\\TRABAJO\\ExcelGenerator\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
