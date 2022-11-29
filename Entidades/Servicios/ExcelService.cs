@@ -12,7 +12,7 @@ using PageMargins = DocumentFormat.OpenXml.Spreadsheet.PageMargins;
 using X14 = DocumentFormat.OpenXml.Office2010.Excel;
 using X15 = DocumentFormat.OpenXml.Office2013.Excel;
 
-namespace Entidades.ServicioExcel
+namespace Entidades.Servicios
 {
     public class ExcelService
     {

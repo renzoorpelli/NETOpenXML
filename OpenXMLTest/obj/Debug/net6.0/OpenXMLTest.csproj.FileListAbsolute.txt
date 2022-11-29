@@ -25,3 +25,8 @@ C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\ne
 C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\OpenXMLTest.pdb
 C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\OpenXMLTest.genruntimeconfig.cache
 C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\ref\OpenXMLTest.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\staticwebassets\msbuild.OpenXMLTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\staticwebassets\msbuild.build.OpenXMLTest.props
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OpenXMLTest.props
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OpenXMLTest.props
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\OpenXMLTest\obj\Debug\net6.0\staticwebassets.pack.json

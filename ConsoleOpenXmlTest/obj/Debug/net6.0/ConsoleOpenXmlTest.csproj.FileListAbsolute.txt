@@ -18,3 +18,16 @@ C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\obj\D
 C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\obj\Debug\net6.0\ConsoleOpenXmlTest.pdb
 C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\obj\Debug\net6.0\ConsoleOpenXmlTest.genruntimeconfig.cache
 C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\obj\Debug\net6.0\ref\ConsoleOpenXmlTest.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\PdfSharp.Charting.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\PdfSharp.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\de\PdfSharp.resources.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\ExcelGenerator\ConsoleOpenXmlTest\bin\Debug\net6.0\NCalc.dll

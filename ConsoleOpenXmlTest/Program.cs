@@ -3,7 +3,7 @@ using DocumentFormat.OpenXml.Spreadsheet;
 using DocumentFormat.OpenXml;
 using DocumentFormat.OpenXml.Vml;
 using Entidades.Modelo;
-using Entidades.ServicioExcel;
+using Entidades.Servicios;
 using System;
 
 namespace Application
@@ -58,12 +58,18 @@ namespace Application
             listaDatos.Cuentas.Add(a2);
             listaDatos.Cuentas.Add(a3);
 
-            ExcelService excelService = new ExcelService("./Generate/");
-            excelService.CreateExcel(listaDatos, "datos");
+            /************** EXCEL SERVICE ********************/
+            //ExcelService excelService = new ExcelService("./Generate/");
+            //excelService.CreateExcel(listaDatos, "datos");
+
+
+            /************** PDF SERVICE ********************/
+            PDFService pdfService = new PDFService("./Generate/PDF");
+            pdfService.CreatePDF("datos", listaDatos);
         }
 
 
 
-       
+
     }
 }
